@@ -35,6 +35,7 @@ INSTALLED_APPS = [
 
     # PROJECT
     'user',
+    'core',
 
     # DEFAULTS
     'django.contrib.admin',
