@@ -2,5 +2,4 @@ django
 djangorestframework
 django-debug-toolbar
 pillow
-djoser
 djangorestframework_simplejwt
