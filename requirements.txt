@@ -3,3 +3,7 @@ djangorestframework
 django-debug-toolbar
 pillow
 djangorestframework_simplejwt
+reportlab
+xhtml2pdf
+html5lib
+pypdf
